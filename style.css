@@ -1,0 +1,21 @@
+h1 {
+  text-align:center;
+  color: white;
+}
+
+body {
+  background: gray;
+}
+
+img {
+  height: 800px;
+}
+
+p {
+  font-size: 50px;
+  
+}
+
+h2 {
+  text-align: center;
+}
